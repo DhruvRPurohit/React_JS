@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "c59a",
+      "name": "Dhruv Purohit",
+      "email": "dhruvrpurohit@gmail.com",
+      "phone": "93280017"
+    },
+    {
+      "id": "20dd",
+      "name": "Raj Parmar",
+      "email": "raj@gmail.com",
+      "phone": "98251234"
+    },
+    {
+      "id": "0c7d",
+      "name": "Rutvik Makavana",
+      "email": "rutvik@gmail.com",
+      "phone": "90181122"
+    },
+    {
+      "id": "863a",
+      "name": "Harsh Purohit",
+      "email": "harsh@gmail.com",
+      "phone": "1234578"
+    }
+  ]
+}
